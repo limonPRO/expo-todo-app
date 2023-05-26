@@ -3,6 +3,6 @@ TODO app using expo
 
 # to run the app
 
-#npm i 
-#npm start
+npm i <br/>
+npm start
 
